@@ -28,12 +28,16 @@
 
 ##  PAIRING CODE SCAN
 
-<a href="https://rcd-pair-f6b9296bccd2.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://rcd-md-pair-site.onrender.com"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 ## DEPLOY IN HEROKU
 
  [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fpurnapurna2007%2FSend2%3Ftab%3Dreadme-ov-file&template=https://github.com/DEXTER-BOTS/STATUS-SENDER)
 
+##  DEPLOY SCALINGO
+# <a href="https://auth.scalingo.com/users/sign_up"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON SCALINGO-h?color=red&style=for-the-badge&logo=msi"></a>
+
+##  DEPLOY RAILWAY
 # <a href="https://railway.app/template/9oodXq?referralCode=JWglkx"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=green&style=for-the-badge&logo=msi"></a>
 
 
@@ -51,4 +55,3 @@ Enjoy the diverse features of the RCD-MD  to enhance your conversations and make
 
 ## Developer:
 - [**WhatsApp**](https://wa.me/94789958225)
-
